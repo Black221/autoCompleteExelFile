@@ -1,0 +1,18 @@
+{
+    "name": "bamba/test-php",
+    "require-dev": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bamba\\TestPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LHackSRT",
+            "email": "bambabar02@gmail.com"
+        }
+    ],
+    "require": {}
+}
